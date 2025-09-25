@@ -1,7 +1,7 @@
 #! /usr/bin/python
 # -*- config: utf-8 -*-
-# Copyright (c) 2025, Aymeric Roynette <aymeric.roynette@pm.gouv.fr>
-# DSI-L
+# Copyright (c) 2025, Aymeric Roynette <wedge.ant@gmail.com>
+# GPL-3.0
 
 from __future__ import absolute_import, division, print_function
 __metaclass__ = type
